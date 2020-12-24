@@ -1,0 +1,21 @@
+[2020-12-19 22:39:01.027] [sharedprocess] [info] main {"machineId":"ff1dabbe5fb7a392ede851c59afb3328bb57839b545a2baac3bd014fdff51a0a","windowId":2}
+[2020-12-19 22:39:01.070] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/opt/lampp/htdocs/django/django_app/~/.vscode-root/User/snippets'
+[2020-12-19 22:39:03.274] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-12-19 22:39:17.187] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2020-12-19 22:39:17.514] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.esbenp.prettier-vscode-5.8.0: esbenp.prettier-vscode
+[2020-12-19 22:39:17.514] [sharedprocess] [info] Renamed to /root/.vscode/extensions/esbenp.prettier-vscode-5.8.0
+[2020-12-19 22:39:17.515] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-12-19 22:39:17.600] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-12-19 22:39:41.044] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-19 22:42:20.966] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-12-19 22:43:04.489] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2020-12-19 22:43:06.448] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-python.python-2020.12.424452561: ms-python.python
+[2020-12-19 22:43:06.448] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2020.12.424452561
+[2020-12-19 22:43:06.451] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-12-19 22:43:06.996] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2020-12-19 22:43:57.931] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2020-12-19 22:43:58.806] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-toolsai.jupyter-2020.12.414227025: ms-toolsai.jupyter
+[2020-12-19 22:43:58.806] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025
+[2020-12-19 22:43:58.809] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2020-12-19 22:43:58.840] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2020-12-19 22:43:58.843] [sharedprocess] [info] Extensions installed successfully: ms-python.python

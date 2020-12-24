@@ -1,0 +1,300 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/TugasAkhir/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/urls.py
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/TugasAkhir/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/urls.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/TugasAkhir/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/urls.py
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/django_app/settings.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/settings.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/django_app/settings.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/settings.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/apps.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/apps.py
+> git show --textconv :django/django_app/django_app/settings.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/settings.py
+> git show --textconv :django/django_app/TugasAkhir/apps.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/apps.py
+> git show --textconv :django/django_app/django_app/settings.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/settings.py
+> git show --textconv :django/django_app/TugasAkhir/apps.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/apps.py
+> git show --textconv :django/django_app/django_app/settings.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/settings.py
+> git show --textconv :django/django_app/TugasAkhir/apps.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/apps.py
+> git show --textconv :django/django_app/django_app/settings.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/settings.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/urls.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/index.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/urls.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/urls.py
+> git show --textconv :django/django_app/TugasAkhir/templates/index.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/index.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/django_app/settings.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/settings.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/templates/index.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/django_app/settings.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/settings.py
+> git show --textconv :django/django_app/TugasAkhir/templates/index.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/index.html
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/django_app/settings.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/settings.py
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/TugasAkhir/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/urls.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git check-ignore -v -z --stdin
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/login.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/login.html
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/urls.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/templates/index.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/index.html
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/models.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/models.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/TugasAkhir/forms.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/forms.py
+> git show --textconv :django/django_app/TugasAkhir/views.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/views.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html
+> git show --textconv :django/django_app/django_app/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/django_app/urls.py
+> git show --textconv :django/django_app/TugasAkhir/urls.py
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/urls.py
+> git show --textconv :django/django_app/TugasAkhir/templates/register.html
+> git ls-files --stage -- /opt/lampp/htdocs/django/django_app/TugasAkhir/templates/register.html

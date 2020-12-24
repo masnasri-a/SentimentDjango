@@ -1,0 +1,20 @@
+Error 2020-12-19 22:44:00: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/opt/lampp/htdocs/django/django_app/.vscode/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/opt/lampp/htdocs/django/django_app/.vscode/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:725:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async m.readFile (/root/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:832552)
+	at async g.fixSettingsFile (/root/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:288845)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/root/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:290565)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Error 2020-12-19 22:44:00: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/root/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/root/.config/Code/User/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:725:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async m.readFile (/root/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:832552)
+	at async g.fixSettingsFile (/root/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:288845)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/root/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:290565)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
