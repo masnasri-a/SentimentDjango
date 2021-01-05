@@ -1,0 +1,17 @@
+
+.states{
+    fill: skyblue;
+    stroke: indigo;
+    stroke-width:2px;
+}
+.hint :hover{
+    fill:dodgerblue;
+}
+#id_input{
+width:100%;
+    text-align:center;
+}
+
+label{
+    visibility: hidden;
+}

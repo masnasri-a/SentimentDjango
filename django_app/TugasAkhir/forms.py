@@ -1,8 +1,8 @@
-from django import forms
 
-class Register(forms.Form):
-    fullname=forms.CharField(min_length=6)
-    username=forms.CharField(min_length=6)
-    email=forms.EmailField()
-    phones=forms.CharField(min_length=10)
-    password=forms.CharField(min_length=6)
+from django.forms import ModelForm
+from .models import input_sentimen
+
+class inputanForm(ModelForm):
+    class Meta:
+        model = input_sentimen
+        fields = '__all__'

@@ -55,7 +55,7 @@ ROOT_URLCONF = 'django_app.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['/opt/lampp/htdocs/django/django_app/TugasAkhir/templates'],
+        'DIRS': ['/home/nasri/ProjectKantor/pythonProject2/SentimentDjango/django_app/TugasAkhir/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -121,5 +121,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'assets'),
-    '/opt/lampp/htdocs/django/django_app/django_app/static/TugasAkhir/static',
+    '/home/nasri/ProjectKantor/pythonProject2/SentimentDjango/django_app/django_app/static/TugasAkhir/static',
 ]
